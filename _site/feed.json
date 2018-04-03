@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/04/03/late-night-at.html",
+	      	
+			"content_html": "<p>Late night at the studio.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/9fe73162a8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-02T20:13:00-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/02/late-night-at.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/04/01/such-a-wonderful.html",
 	      	
 			"content_html": "<p>Such a wonderful birthday present from my wonderful fiancé.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/dcf02e3acd.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.gabrielcornish.com/uploads/2018/a5e7dd166d.jpg\" width=\"600\" height=\"600\" /></p>\n",
