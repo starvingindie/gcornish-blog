@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-02 20:13 -0700
+date: 2018-04-02 20:13:49 -0700
 guid: http://SingleBit.micro.blog/2018/04/03/late-night-at.html
 ---
 Late night at the studio. 
