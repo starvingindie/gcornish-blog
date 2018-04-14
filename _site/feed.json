@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/04/14/testing.html",
+	      	
+			"content_html": "<p>Testing</p>\n",
+			"date_published": "2018-04-14T11:14:54-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/14/testing.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/04/03/late-night-at.html",
 	      	
 			"content_html": "<p>Late night at the studio.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/9fe73162a8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-02T20:13:00-07:00",
+			"date_published": "2018-04-02T20:13:49-07:00",
 			"url": "http://www.gabrielcornish.com/2018/04/02/late-night-at.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://SingleBit.micro.blog/2018/04/01/such-a-wonderful.html",
 	      	
 			"content_html": "<p>Such a wonderful birthday present from my wonderful fiancé.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/dcf02e3acd.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.gabrielcornish.com/uploads/2018/a5e7dd166d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-01T08:41:00-07:00",
+			"date_published": "2018-04-01T08:41:44-07:00",
 			"url": "http://www.gabrielcornish.com/2018/04/01/such-a-wonderful.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://SingleBit.micro.blog/2018/03/31/174844.html",
 	      	
 			"content_html": "<p><img src=\"http://www.gabrielcornish.com/uploads/2018/4dcc5c052b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-31T10:48:00-07:00",
+			"date_published": "2018-03-31T10:48:44-07:00",
 			"url": "http://www.gabrielcornish.com/2018/03/31/174844.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://SingleBit.micro.blog/2018/03/31/062824.html",
 	      	
 			"content_html": "<p><img src=\"http://www.gabrielcornish.com/uploads/2018/79fa479ed8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-30T23:28:00-07:00",
+			"date_published": "2018-03-30T23:28:24-07:00",
 			"url": "http://www.gabrielcornish.com/2018/03/30/062824.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://SingleBit.micro.blog/2018/03/30/164453.html",
 	      	
 			"content_html": "<p><img src=\"http://www.gabrielcornish.com/uploads/2018/c98b49ea82.jpg\" width=\"600\" height=\"600\" /></p>\n\n<p>Great way to start off the Friday. Grateful for such a supportive and talented Game Development team.</p>\n",
-			"date_published": "2018-03-30T09:44:00-07:00",
+			"date_published": "2018-03-30T09:44:53-07:00",
 			"url": "http://www.gabrielcornish.com/2018/03/30/164453.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://SingleBit.micro.blog/2018/03/29/when-you-arise.html",
 	      	
 			"content_html": "<blockquote>\n  <p>When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.</p>\n</blockquote>\n\n<ul>\n  <li>Marcus Aurelius</li>\n</ul>\n",
-			"date_published": "2018-03-29T11:11:00-07:00",
+			"date_published": "2018-03-29T11:11:11-07:00",
 			"url": "http://www.gabrielcornish.com/2018/03/29/when-you-arise.html"
 		},
 		
@@ -57,7 +65,7 @@
 			"id": "http://SingleBit.micro.blog/2018/03/29/spent-the-morning.html",
 	      	
 			"content_html": "<p>Spent the morning learning about <a href=\"http://microformats.org/\">microformats</a>. Pretty interesting stuff. I love the simplicity and openness of the whole system.</p>\n",
-			"date_published": "2018-03-29T09:54:00-07:00",
+			"date_published": "2018-03-29T09:54:20-07:00",
 			"url": "http://www.gabrielcornish.com/2018/03/29/spent-the-morning.html"
 		},
 		
@@ -65,7 +73,7 @@
 			"id": "http://SingleBit.micro.blog/2018/03/28/my-princess.html",
 	      	
 			"content_html": "<p><img src=\"http://SingleBit.micro.blog/uploads/2018/0af3687b54.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-28T13:17:00-07:00",
+			"date_published": "2018-03-28T13:17:14-07:00",
 			"url": "http://www.gabrielcornish.com/2018/03/28/my-princess.html"
 		},
 		
@@ -73,7 +81,7 @@
 			"id": "http://SingleBit.micro.blog/2018/03/28/i-used-to.html",
 	      	
 			"content_html": "<p>I used to distrust my online presence. I needed to have ownership and control of my content on social media platforms. So I quit. I would have rather shared nothing than have it be owned and manipulated by someone.</p>\n\n<p>After some time I began to realize that it’s possible to have an online presence, own your creations and be independent. I’m happy to return to the web now in control of my content.</p>\n",
-			"date_published": "2018-03-28T12:15:00-07:00",
+			"date_published": "2018-03-28T12:15:56-07:00",
 			"url": "http://www.gabrielcornish.com/2018/03/28/i-used-to.html"
 		}
 		
