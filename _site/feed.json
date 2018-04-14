@@ -5,5 +5,13 @@
 	"feed_url": "http://www.gabrielcornish.com/feed.json",
 	"items": [
 		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/14/when-you-arise.html",
+	      	
+			"content_html": "<blockquote>\n  <p>When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.</p>\n</blockquote>\n\n<ul>\n  <li>Marcus Aurelius</li>\n</ul>\n",
+			"date_published": "2018-04-14T13:15:55-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/14/when-you-arise.html"
+		}
+		
 	]
 }
