@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/04/15/dan-harmons-story.html",
+	      	
+			"content_html": "<p>Dan Harmon’s story circle is the best method I’ve discovered for creating stories that resonate. I use this technique a lot in my hobby #interactivefiction games. <a href=\"http://channel101.wikia.com/wiki/Story_Structure_101:_Super_Basic_Shit\">Learn more here</a>.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/29115e51f0.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-14T20:17:35-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/14/dan-harmons-story.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/04/14/when-you-arise.html",
 	      	
 			"content_html": "<blockquote>\n  <p>When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.</p>\n</blockquote>\n\n<ul>\n  <li>Marcus Aurelius</li>\n</ul>\n",
