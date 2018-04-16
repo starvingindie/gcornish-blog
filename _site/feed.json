@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/04/16/an-honest-man.html",
+	      	
+			"content_html": "<blockquote>\n  <p>An honest man is always a child.</p>\n</blockquote>\n\n<ul>\n  <li>Socrates</li>\n</ul>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/6742500a98.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-04-16T08:58:53-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/16/an-honest-man.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/04/15/dan-harmons-story.html",
 	      	
 			"content_html": "<p>Dan Harmon’s story circle is the best method I’ve discovered for creating stories that resonate. I use this technique a lot in my hobby #interactivefiction games. <a href=\"http://channel101.wikia.com/wiki/Story_Structure_101:_Super_Basic_Shit\">Learn more here</a>.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/29115e51f0.jpg\" width=\"450\" height=\"600\" /></p>\n",
