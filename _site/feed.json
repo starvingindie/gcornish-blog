@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/04/19/the-last-game.html",
+	      	
+			"content_html": "<p>The Last Game Designer is a small #interactivefiction piece I did for a #LudumDare game jam. You can play it <a href=\"games.gabrielcornish.com/2018-04-19-gamex-the-last-game-designer\">here</a></p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/6105f9fb71.jpg\" width=\"512\" height=\"256\" /></p>\n",
+			"date_published": "2018-04-19T10:30:13-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/19/the-last-game.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/04/19/throwbackthursday-shoot-stuff.html",
 	      	
 			"content_html": "<p>#throwbackthursday - Shoot Stuff is a tiny game I made a while ago in pico8. You can play it <a href=\"https://games.gabrielcornish.com/2018-04-19-gamex-folderx-shoot-stuff/\">here</a> #gamedev</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/4af3f0f036.jpg\" width=\"256\" height=\"256\" /></p>\n",
