@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/04/23/bitsy-a-minimalist.html",
+	      	
+			"title": "Bitsy - A Minimalist Game Engine",
+			
+			"content_html": "<p><a href=\"https://ledoux.itch.io/bitsy\">Bitsy</a> is one of the best and most simple game engines you can use. The limitations and simplicity of the engine help you stay focused on what your building with little distractions.</p>\n\n<p>The <a href=\"https://ledoux.itch.io/bitsy/community\">community</a> is friendly and constantly releasing charming little games.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/713b8bc996.jpg\" width=\"600\" height=\"388\" /></p>\n",
+			"date_published": "2018-04-22T17:48:21-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/22/bitsy-a-minimalist.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/04/21/journaling-session-from.html",
 	      	
 			"content_html": "<p>Journaling session from this morning.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/23a56a3320.jpg\" width=\"450\" height=\"600\" /></p>\n",
