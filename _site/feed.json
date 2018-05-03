@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/05/03/a-friendly-reminder.html",
+	      	
+			"content_html": "<p>A friendly reminder as I sit down to write for the day. #interactivefiction #gamedev</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/7ca8fe59ea.jpg\" width=\"599\" height=\"241\" /></p>\n",
+			"date_published": "2018-05-03T09:29:22-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/03/a-friendly-reminder.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/04/23/bitsy-a-minimalist.html",
 	      	
 			"title": "Bitsy - A Minimalist Game Engine",
