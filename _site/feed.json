@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/06/24/story-cubes-are.html",
+	      	
+			"content_html": "<p>Story cubes are a great tool to help break you out of a creative block. Had a great #journaling session this morning working on an outline for a Choose Your Own Adnventure game. #interactivefiction</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/2b0e77a244.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-24T12:30:08-07:00",
+			"url": "http://www.gabrielcornish.com/2018/06/24/story-cubes-are.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/06/23/outlining-a-choose.html",
+	      	
+			"content_html": "<p>Outlining a choose your own adventure game with the help of some story cubes. #interactivefiction</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/771f53cbfa.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-23T10:31:01-07:00",
+			"url": "http://www.gabrielcornish.com/2018/06/23/outlining-a-choose.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/05/16/warm-fluffy-bedsheets.html",
 	      	
 			"content_html": "<p>Warm fluffy bedsheets hold me hostage for the day while birds sing outside.</p>\n",
