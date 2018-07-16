@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/07/16/one-of-my.html",
+	      	
+			"content_html": "<p>One of my favorite quotes and comics combination. From <a href=\"https://zenpencils.com/\">Zen Pencils</a>.</p>\n\n<p><a href=\"https://zenpencils.com/\"><img src=\"https://games.gabrielcornish.com/2018-07-16-imagex-bill-watterson-quote.jpg\" /></a></p>\n\n",
+			"date_published": "2018-07-16T09:11:48-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/16/one-of-my.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/07/02/another-successful-fire.html",
 	      	
 			"content_html": "<p>Another successful Fire Rescue with Jenn. The game is <a href=\"https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue\">Flash Point</a>. Fun game for the whole, family. Highly recommended.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/0f3061f36e.jpg\" width=\"600\" height=\"600\" /></p>\n",
