@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/08/14/ludum-dare-made.html",
+	      	
+			"content_html": "<h2 id=\"ludum-dare-42\">Ludum Dare 42!!</h2>\n<p>Made a game with some friends over the weekend. It’s an old-school Choose Your Own Adventure game. <a href=\"https://games.gabrielcornish.com/ld-42-game/\">Check it out.</a> #interactivefiction #gamedev #indiedev</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/7061a95960.jpg\" width=\"384\" height=\"256\" /></p>\n",
+			"date_published": "2018-08-14T14:55:58-07:00",
+			"url": "http://www.gabrielcornish.com/2018/08/14/ludum-dare-made.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/07/26/ive-never-done.html",
 	      	
 			"content_html": "<p>I’ve never done any type of 3d modeling before, but I was curious about the process. So I dove right it. I made this using a super user friendly tool called <a href=\"www.assetforge.io\">Asset Forge</a>.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/124bfa70a7.jpg\" width=\"600\" height=\"600\" /></p>\n",
