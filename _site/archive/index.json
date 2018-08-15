@@ -1,0 +1,187 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Gabriel Cornish",
+	"home_page_url": "http://www.gabrielcornish.com/",
+	"feed_url": "http://www.gabrielcornish.com/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/08/14/ludum-dare-made.html",
+	      	
+			"content_text": "Ludum Dare 42!! Made a game with some friends over...",
+			"date_published": "2018-08-14T14:55:58-07:00",
+			"url": "http://www.gabrielcornish.com/2018/08/14/ludum-dare-made.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/07/26/ive-never-done.html",
+	      	
+			"content_text": "I’ve never done any type of 3d modeling before, but...",
+			"date_published": "2018-07-26T10:04:12-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/26/ive-never-done.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/07/17/if-youre-a.html",
+	      	
+			"content_text": "If you’re a fan of fun, definitely check out Gloomhaven....",
+			"date_published": "2018-07-17T09:57:17-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/17/if-youre-a.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/07/16/one-of-my.html",
+	      	
+			"content_text": "One of my favorite quotes and comics combination. From Zen...",
+			"date_published": "2018-07-16T09:11:48-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/16/one-of-my.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/07/02/another-successful-fire.html",
+	      	
+			"content_text": "Another successful Fire Rescue with Jenn. The game is Flash...",
+			"date_published": "2018-07-01T18:16:28-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/01/another-successful-fire.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/06/25/another-fun-journaling.html",
+	      	
+			"content_text": "Another fun #journaling session this morning. Exploring ideas around the...",
+			"date_published": "2018-06-25T08:23:57-07:00",
+			"url": "http://www.gabrielcornish.com/2018/06/25/another-fun-journaling.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/06/24/story-cubes-are.html",
+	      	
+			"content_text": "Story cubes are a great tool to help break you...",
+			"date_published": "2018-06-24T12:30:08-07:00",
+			"url": "http://www.gabrielcornish.com/2018/06/24/story-cubes-are.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/06/23/outlining-a-choose.html",
+	      	
+			"content_text": "Outlining a choose your own adventure game with the help...",
+			"date_published": "2018-06-23T10:31:01-07:00",
+			"url": "http://www.gabrielcornish.com/2018/06/23/outlining-a-choose.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/16/warm-fluffy-bedsheets.html",
+	      	
+			"content_text": "Warm fluffy bedsheets hold me hostage for the day while...",
+			"date_published": "2018-05-15T20:28:33-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/15/warm-fluffy-bedsheets.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/12/beautiful-morning-in.html",
+	      	
+			"content_text": "Beautiful morning in the city\n\n\n",
+			"date_published": "2018-05-12T08:43:32-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/12/beautiful-morning-in.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/10/absolutely-live-this.html",
+	      	
+			"content_text": "Absolutely love this calming piece of #PixelArt. Credit goes to...",
+			"date_published": "2018-05-10T15:40:56-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/10/absolutely-live-this.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/07/got-to-prototype.html",
+	      	
+			"content_text": "Got to prototype a board game with the fiancé yesterday....",
+			"date_published": "2018-05-07T12:12:08-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/07/got-to-prototype.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/03/a-friendly-reminder.html",
+	      	
+			"content_text": "A friendly reminder as I sit down to write for...",
+			"date_published": "2018-05-03T09:29:22-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/03/a-friendly-reminder.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/23/bitsy-a-minimalist.html",
+	      	
+			"title": "Bitsy - A Minimalist Game Engine",
+			
+			"content_text": "Bitsy is one of the best and most simple game...",
+			"date_published": "2018-04-22T17:48:21-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/22/bitsy-a-minimalist.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/21/journaling-session-from.html",
+	      	
+			"content_text": "Journaling session from this morning.\n\n\n",
+			"date_published": "2018-04-21T10:33:57-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/21/journaling-session-from.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/20/rawrrr-ive-been.html",
+	      	
+			"content_text": "Rawrrr! I’ve been trying to get more comfortable sharing my...",
+			"date_published": "2018-04-20T09:01:24-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/20/rawrrr-ive-been.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/19/the-last-game.html",
+	      	
+			"content_text": "The Last Game Designer is a small #interactivefiction piece I...",
+			"date_published": "2018-04-19T10:30:13-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/19/the-last-game.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/19/throwbackthursday-shoot-stuff.html",
+	      	
+			"content_text": "#throwbackthursday - Shoot Stuff is a tiny game I made...",
+			"date_published": "2018-04-19T10:03:50-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/19/throwbackthursday-shoot-stuff.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/19/ive-tried-a.html",
+	      	
+			"content_text": "I’ve tried a lot of #interactivefiction game engines. Ficdown is...",
+			"date_published": "2018-04-19T09:14:58-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/19/ive-tried-a.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/16/an-honest-man.html",
+	      	
+			"content_text": "\n  An honest man is always a child.\n\n\n\n  Socrates\n\n\n\n",
+			"date_published": "2018-04-16T08:58:53-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/16/an-honest-man.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/15/dan-harmons-story.html",
+	      	
+			"content_text": "Dan Harmon’s story circle is the best method I’ve discovered...",
+			"date_published": "2018-04-14T20:17:35-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/14/dan-harmons-story.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/14/when-you-arise.html",
+	      	
+			"content_text": "When you arise in the morning, think of what a...",
+			"date_published": "2018-04-14T13:15:55-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/14/when-you-arise.html"
+		}
+		
+	]
+}
