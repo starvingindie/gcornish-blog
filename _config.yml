@@ -32,7 +32,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
 site_id: "3669"
 gems: ["jekyll-paginate"]
+itunes_description: "Hey! I'm Gabriel. I make games."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Gabriel Cornish"
+itunes_email: ""
 podcast: false
