@@ -2,17 +2,23 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Gabriel Cornish</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/GabrielCornish&quot;&gt;@GabrielCornish on Micro.blog&lt;/a&gt;.</description>
+    <description>Hey! I'm Gabriel. I make games.</description>
     <link>http://www.gabrielcornish.com/</link>
-    <pubDate>Fri, 27 Jul 2018 14:10:48 -0700</pubDate>
-    <lastBuildDate>Fri, 27 Jul 2018 14:10:48 -0700</lastBuildDate>
+    <pubDate>Tue, 14 Aug 2018 14:56:12 -0700</pubDate>
+    <lastBuildDate>Tue, 14 Aug 2018 14:56:12 -0700</lastBuildDate>
 	<itunes:image href="https://micro.blog/GabrielCornish/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Gabriel Cornish</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Gabriel Cornish</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
+    
+		
     
 		
     
