@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/08/27/the-greatest-most.html",
+	      	
+			"content_html": "<p>The greatest, most fun game development team I’ve ever had the pleasure to work with. Such talent and passion. Here’s to hoping fate reunites the team again in the future.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/7e3c80f2fb.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-27T15:35:53-07:00",
+			"url": "http://www.gabrielcornish.com/2018/08/27/the-greatest-most.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/08/14/ludum-dare-made.html",
 	      	
 			"content_html": "<h2 id=\"ludum-dare-42\">Ludum Dare 42!!</h2>\n<p>Made a game with some friends over the weekend. It’s an old-school Choose Your Own Adventure game. <a href=\"https://games.gabrielcornish.com/ld-42-game/\">Check it out.</a> #interactivefiction #gamedev #indiedev</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/7061a95960.jpg\" width=\"384\" height=\"256\" /></p>\n",
