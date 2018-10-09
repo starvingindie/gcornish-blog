@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Gabriel Cornish",
+	"icon": "https://micro.blog/GabrielCornish/avatar.jpg",
 	"home_page_url": "http://www.gabrielcornish.com/",
 	"feed_url": "http://www.gabrielcornish.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/10/09/005327.html",
+	      	
+			"content_html": "<p><img src=\"http://www.gabrielcornish.com/uploads/2018/ed19d27604.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-08T17:53:27-07:00",
+			"url": "http://www.gabrielcornish.com/2018/10/08/005327.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/08/30/currently-reading-snow.html",
+	      	
+			"content_html": "<p>Currently reading Snow Crash by Neal Stephenson and came across this gem of a quote:</p>\n\n<blockquote>\n  <p>“I just saved your fucking life, Mom,” Y.T. says. “You could at least offer me an Oreo.”</p>\n</blockquote>\n\n",
+			"date_published": "2018-08-29T19:52:24-07:00",
+			"url": "http://www.gabrielcornish.com/2018/08/29/currently-reading-snow.html"
+		},
 		
 		{
 			"id": "http://SingleBit.micro.blog/2018/08/30/beautiful-morning-walk.html",
@@ -189,14 +206,6 @@
 			"content_html": "<p>Dan Harmon’s story circle is the best method I’ve discovered for creating stories that resonate. I use this technique a lot in my hobby #interactivefiction games. <a href=\"http://channel101.wikia.com/wiki/Story_Structure_101:_Super_Basic_Shit\">Learn more here</a>.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/29115e51f0.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-14T20:17:35-07:00",
 			"url": "http://www.gabrielcornish.com/2018/04/14/dan-harmons-story.html"
-		},
-		
-		{
-			"id": "http://SingleBit.micro.blog/2018/04/14/when-you-arise.html",
-	      	
-			"content_html": "<blockquote>\n  <p>When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.</p>\n</blockquote>\n\n<ul>\n  <li>Marcus Aurelius</li>\n</ul>\n",
-			"date_published": "2018-04-14T13:15:55-07:00",
-			"url": "http://www.gabrielcornish.com/2018/04/14/when-you-arise.html"
 		}
 		
 	]
