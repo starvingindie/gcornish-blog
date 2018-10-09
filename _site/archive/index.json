@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Gabriel Cornish",
+	"icon": "https://micro.blog/GabrielCornish/avatar.jpg",
 	"home_page_url": "http://www.gabrielcornish.com/",
 	"feed_url": "http://www.gabrielcornish.com/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/10/09/005327.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2018-10-08T17:53:27-07:00",
+			"url": "http://www.gabrielcornish.com/2018/10/08/005327.html"
+		},
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/08/30/currently-reading-snow.html",
+	      	
+			"content_text": "Currently reading Snow Crash by Neal Stephenson and came across...",
+			"date_published": "2018-08-29T19:52:24-07:00",
+			"url": "http://www.gabrielcornish.com/2018/08/29/currently-reading-snow.html"
+		},
 		
 		{
 			"id": "http://SingleBit.micro.blog/2018/08/30/beautiful-morning-walk.html",
