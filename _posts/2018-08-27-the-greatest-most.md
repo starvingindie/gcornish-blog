@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/7e3c80f2fb.jpg
 date: 2018-08-27 15:35:53 -0700
 guid: http://SingleBit.micro.blog/2018/08/27/the-greatest-most.html
 ---
