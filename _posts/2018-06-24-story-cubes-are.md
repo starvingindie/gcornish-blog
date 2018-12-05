@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/2b0e77a244.jpg
 date: 2018-06-24 12:30:08 -0700
 guid: http://SingleBit.micro.blog/2018/06/24/story-cubes-are.html
 ---
