@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-15 20:28:33 -0700
 guid: http://SingleBit.micro.blog/2018/05/16/warm-fluffy-bedsheets.html
 ---
