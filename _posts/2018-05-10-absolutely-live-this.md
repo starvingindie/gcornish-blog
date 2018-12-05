@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/8537f0ba62.jpg
 date: 2018-05-10 15:40:56 -0700
 guid: http://SingleBit.micro.blog/2018/05/10/absolutely-live-this.html
 ---
