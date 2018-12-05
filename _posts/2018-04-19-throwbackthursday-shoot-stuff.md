@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/4af3f0f036.jpg
 date: 2018-04-19 10:03:50 -0700
 guid: http://SingleBit.micro.blog/2018/04/19/throwbackthursday-shoot-stuff.html
 ---
