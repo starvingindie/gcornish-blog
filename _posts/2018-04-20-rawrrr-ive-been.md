@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/ba21abb4dc.jpg
 date: 2018-04-20 09:01:24 -0700
 guid: http://SingleBit.micro.blog/2018/04/20/rawrrr-ive-been.html
 ---
