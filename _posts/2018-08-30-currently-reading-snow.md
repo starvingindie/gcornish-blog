@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-29 19:52:24 -0700
 guid: http://SingleBit.micro.blog/2018/08/30/currently-reading-snow.html
 ---
