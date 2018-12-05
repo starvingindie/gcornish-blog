@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/124bfa70a7.jpg
 date: 2018-07-26 10:04:12 -0700
 guid: http://SingleBit.micro.blog/2018/07/26/ive-never-done.html
 ---
