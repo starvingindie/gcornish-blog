@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/6742500a98.jpg
 date: 2018-04-16 08:58:53 -0700
 guid: http://SingleBit.micro.blog/2018/04/16/an-honest-man.html
 ---
