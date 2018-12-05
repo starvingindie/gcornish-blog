@@ -3,6 +3,7 @@ layout: post
 title: "Bitsy - A Minimalist Game Engine"
 microblog: false
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/713b8bc996.jpg
 date: 2018-04-22 17:48:21 -0700
 guid: http://SingleBit.micro.blog/2018/04/23/bitsy-a-minimalist.html
 ---
