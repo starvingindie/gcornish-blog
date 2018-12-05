@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/771f53cbfa.jpg
 date: 2018-06-23 10:31:01 -0700
 guid: http://SingleBit.micro.blog/2018/06/23/outlining-a-choose.html
 ---
