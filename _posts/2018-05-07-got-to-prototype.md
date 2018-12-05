@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/26847ac20f.jpg
 date: 2018-05-07 12:12:08 -0700
 guid: http://SingleBit.micro.blog/2018/05/07/got-to-prototype.html
 ---
