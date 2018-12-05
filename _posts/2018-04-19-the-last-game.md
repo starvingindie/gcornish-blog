@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/6105f9fb71.jpg
 date: 2018-04-19 10:30:13 -0700
 guid: http://SingleBit.micro.blog/2018/04/19/the-last-game.html
 ---
