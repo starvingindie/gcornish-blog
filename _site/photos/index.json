@@ -1,0 +1,254 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Gabriel Cornish",
+	"icon": "https://micro.blog/GabrielCornish/avatar.jpg",
+	"home_page_url": "http://www.gabrielcornish.com/",
+	"feed_url": "http://www.gabrielcornish.com/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://SingleBit.micro.blog/2018/10/09/005327.html",
+			
+			"content_text": "<p><img src=\"http://www.gabrielcornish.com/uploads/2018/ed19d27604.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-08T17:53:27-07:00",
+			"url": "http://www.gabrielcornish.com/2018/10/08/005327.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/ed19d27604.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/ed19d27604.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/08/30/beautiful-morning-walk.html",
+			
+			"content_text": "<p>Beautiful morning walk with the fiancé.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/ee8d947c14.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-29T19:49:14-07:00",
+			"url": "http://www.gabrielcornish.com/2018/08/29/beautiful-morning-walk.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/ee8d947c14.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/ee8d947c14.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/08/27/the-greatest-most.html",
+			
+			"content_text": "<p>The greatest, most fun game development team I’ve ever had the pleasure to work with. Such talent and passion. Here’s to hoping fate reunites the team again in the future.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/7e3c80f2fb.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-27T15:35:53-07:00",
+			"url": "http://www.gabrielcornish.com/2018/08/27/the-greatest-most.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/7e3c80f2fb.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/7e3c80f2fb.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/08/14/ludum-dare-made.html",
+			
+			"content_text": "<h2 id=\"ludum-dare-42\">Ludum Dare 42!!</h2>\n<p>Made a game with some friends over the weekend. It’s an old-school Choose Your Own Adventure game. <a href=\"https://games.gabrielcornish.com/ld-42-game/\">Check it out.</a> #interactivefiction #gamedev #indiedev</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/7061a95960.jpg\" width=\"384\" height=\"256\" /></p>\n",
+			"date_published": "2018-08-14T14:55:58-07:00",
+			"url": "http://www.gabrielcornish.com/2018/08/14/ludum-dare-made.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/7061a95960.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/7061a95960.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/07/26/ive-never-done.html",
+			
+			"content_text": "<p>I’ve never done any type of 3d modeling before, but I was curious about the process. So I dove right it. I made this using a super user friendly tool called <a href=\"www.assetforge.io\">Asset Forge</a>.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/124bfa70a7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-26T10:04:12-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/26/ive-never-done.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/124bfa70a7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/124bfa70a7.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/07/17/if-youre-a.html",
+			
+			"content_text": "<p>If you’re a fan of fun, definitely check out Gloomhaven. A fantastic game. The setup and tear down is lengthy, so be sure to have an afternoon blocked out. Well worth it however.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/9458ca83b8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-17T09:57:17-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/17/if-youre-a.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/9458ca83b8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/9458ca83b8.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/07/16/one-of-my.html",
+			
+			"content_text": "<p>One of my favorite quotes and comics combination. From <a href=\"https://zenpencils.com/\">Zen Pencils</a>.</p>\n\n<p><a href=\"https://zenpencils.com/\"><img src=\"https://games.gabrielcornish.com/2018-07-16-imagex-bill-watterson-quote.jpg\" /></a></p>\n\n",
+			"date_published": "2018-07-16T09:11:48-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/16/one-of-my.html",
+			"image": "https://games.gabrielcornish.com/2018-07-16-imagex-bill-watterson-quote.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://games.gabrielcornish.com/2018-07-16-imagex-bill-watterson-quote.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/07/02/another-successful-fire.html",
+			
+			"content_text": "<p>Another successful Fire Rescue with Jenn. The game is <a href=\"https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue\">Flash Point</a>. Fun game for the whole, family. Highly recommended.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/0f3061f36e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-01T18:16:28-07:00",
+			"url": "http://www.gabrielcornish.com/2018/07/01/another-successful-fire.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/0f3061f36e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/0f3061f36e.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/06/25/another-fun-journaling.html",
+			
+			"content_text": "<p>Another fun #journaling session this morning. Exploring ideas around the balance between story and gameplay in #interactivefiction. What’s more important to you in a narrative game, fun puzzles or good storytelling?</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/c4ae68c6e2.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-25T08:23:57-07:00",
+			"url": "http://www.gabrielcornish.com/2018/06/25/another-fun-journaling.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/c4ae68c6e2.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/c4ae68c6e2.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/06/24/story-cubes-are.html",
+			
+			"content_text": "<p>Story cubes are a great tool to help break you out of a creative block. Had a great #journaling session this morning working on an outline for a Choose Your Own Adnventure game. #interactivefiction</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/2b0e77a244.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-24T12:30:08-07:00",
+			"url": "http://www.gabrielcornish.com/2018/06/24/story-cubes-are.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/2b0e77a244.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/2b0e77a244.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/06/23/outlining-a-choose.html",
+			
+			"content_text": "<p>Outlining a choose your own adventure game with the help of some story cubes. #interactivefiction</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/771f53cbfa.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-23T10:31:01-07:00",
+			"url": "http://www.gabrielcornish.com/2018/06/23/outlining-a-choose.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/771f53cbfa.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/771f53cbfa.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/12/beautiful-morning-in.html",
+			
+			"content_text": "<p>Beautiful morning in the city</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/fac698c3bc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-12T08:43:32-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/12/beautiful-morning-in.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/fac698c3bc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/fac698c3bc.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/10/absolutely-live-this.html",
+			
+			"content_text": "<p>Absolutely love this calming piece of #PixelArt. Credit goes to the mysterious <a href=\"http://1041uuu.tumblr.com/\">1041uuu</a> - a truly talented pixel artist. You can find their work on twitter @1041uuu</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/8537f0ba62.jpg\" width=\"500\" height=\"288\" /></p>\n",
+			"date_published": "2018-05-10T15:40:56-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/10/absolutely-live-this.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/8537f0ba62.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/8537f0ba62.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/07/got-to-prototype.html",
+			
+			"content_text": "<p>Got to prototype a board game with the fiancé yesterday. 2 hour #gamejams might feel limiting but they’re a blast.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/26847ac20f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-07T12:12:08-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/07/got-to-prototype.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/26847ac20f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/26847ac20f.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/05/03/a-friendly-reminder.html",
+			
+			"content_text": "<p>A friendly reminder as I sit down to write for the day. #interactivefiction #gamedev</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/7ca8fe59ea.jpg\" width=\"599\" height=\"241\" /></p>\n",
+			"date_published": "2018-05-03T09:29:22-07:00",
+			"url": "http://www.gabrielcornish.com/2018/05/03/a-friendly-reminder.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/7ca8fe59ea.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/7ca8fe59ea.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/23/bitsy-a-minimalist.html",
+			
+			"title": "Bitsy - A Minimalist Game Engine",
+			
+			"content_text": "<p><a href=\"https://ledoux.itch.io/bitsy\">Bitsy</a> is one of the best and most simple game engines you can use. The limitations and simplicity of the engine help you stay focused on what your building with little distractions.</p>\n\n<p>The <a href=\"https://ledoux.itch.io/bitsy/community\">community</a> is friendly and constantly releasing charming little games.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/713b8bc996.jpg\" width=\"600\" height=\"388\" /></p>\n",
+			"date_published": "2018-04-22T17:48:21-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/22/bitsy-a-minimalist.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/713b8bc996.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/713b8bc996.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/21/journaling-session-from.html",
+			
+			"content_text": "<p>Journaling session from this morning.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/23a56a3320.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-21T10:33:57-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/21/journaling-session-from.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/23a56a3320.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/23a56a3320.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/20/rawrrr-ive-been.html",
+			
+			"content_text": "<p>Rawrrr!</p>\n\n<p>I’ve been trying to get more comfortable sharing my work, so here’s a doodle from a few days ago.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/ba21abb4dc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-20T09:01:24-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/20/rawrrr-ive-been.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/ba21abb4dc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/ba21abb4dc.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/19/the-last-game.html",
+			
+			"content_text": "<p>The Last Game Designer is a small #interactivefiction piece I did for a #LudumDare game jam. You can play it <a href=\"https://games.gabrielcornish.com/2018-04-19-gamex-the-last-game-designer\">here</a></p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/6105f9fb71.jpg\" width=\"512\" height=\"256\" /></p>\n",
+			"date_published": "2018-04-19T10:30:13-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/19/the-last-game.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/6105f9fb71.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/6105f9fb71.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/19/throwbackthursday-shoot-stuff.html",
+			
+			"content_text": "<p>#throwbackthursday - Shoot Stuff is a tiny game I made a while ago in pico8. You can play it <a href=\"https://games.gabrielcornish.com/2018-04-19-gamex-folderx-shoot-stuff/\">here</a> #gamedev</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/4af3f0f036.jpg\" width=\"256\" height=\"256\" /></p>\n",
+			"date_published": "2018-04-19T10:03:50-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/19/throwbackthursday-shoot-stuff.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/4af3f0f036.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/4af3f0f036.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/16/an-honest-man.html",
+			
+			"content_text": "<blockquote>\n  <p>An honest man is always a child.</p>\n</blockquote>\n\n<ul>\n  <li>Socrates</li>\n</ul>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/6742500a98.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-04-16T08:58:53-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/16/an-honest-man.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/6742500a98.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/6742500a98.jpg"
+			}
+		},
+		{
+			"id": "http://SingleBit.micro.blog/2018/04/15/dan-harmons-story.html",
+			
+			"content_text": "<p>Dan Harmon’s story circle is the best method I’ve discovered for creating stories that resonate. I use this technique a lot in my hobby #interactivefiction games. <a href=\"http://channel101.wikia.com/wiki/Story_Structure_101:_Super_Basic_Shit\">Learn more here</a>.</p>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/29115e51f0.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-14T20:17:35-07:00",
+			"url": "http://www.gabrielcornish.com/2018/04/14/dan-harmons-story.html",
+			"image": "http://www.gabrielcornish.com/uploads/2018/29115e51f0.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.gabrielcornish.com/uploads/2018/29115e51f0.jpg"
+			}
+		}
+	]
+}
