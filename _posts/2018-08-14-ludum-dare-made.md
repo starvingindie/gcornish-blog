@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.gabrielcornish.com/uploads/2018/7061a95960.jpg
 date: 2018-08-14 14:55:58 -0700
 guid: http://SingleBit.micro.blog/2018/08/14/ludum-dare-made.html
 ---
