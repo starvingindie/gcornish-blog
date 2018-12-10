@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://SingleBit.micro.blog/2018/12/10/even-if-i.html",
+	      	
+			"content_html": "<blockquote>\n  <p>”Even if I lack the talent, I will not abandon the effort on that account”</p>\n</blockquote>\n\n<ul>\n  <li>Epictetus</li>\n</ul>\n",
+			"date_published": "2018-12-10T05:47:41-08:00",
+			"url": "http://www.gabrielcornish.com/2018/12/10/even-if-i.html"
+		},
+		
+		{
 			"id": "http://SingleBit.micro.blog/2018/12/05/if-you-dont.html",
 	      	
 			"content_html": "<blockquote>\n  <p>“If you don’t have a consistent goal in life, you can’t live it in a consistent way.”</p>\n</blockquote>\n\n<ul>\n  <li>Marcus Aurelius</li>\n</ul>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>I’ve tried a lot of #interactivefiction game engines. Ficdown is by far my favorite. Create interactive fiction games using the Markdown markup language. It’s simple yet powerful. <a href=\"https://www.ficdown.com/\">Definitely check it out.</a></p>\n",
 			"date_published": "2018-04-19T09:14:58-07:00",
 			"url": "http://www.gabrielcornish.com/2018/04/19/ive-tried-a.html"
-		},
-		
-		{
-			"id": "http://SingleBit.micro.blog/2018/04/16/an-honest-man.html",
-	      	
-			"content_html": "<blockquote>\n  <p>An honest man is always a child.</p>\n</blockquote>\n\n<ul>\n  <li>Socrates</li>\n</ul>\n\n<p><img src=\"http://www.gabrielcornish.com/uploads/2018/6742500a98.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-04-16T08:58:53-07:00",
-			"url": "http://www.gabrielcornish.com/2018/04/16/an-honest-man.html"
 		}
 		
 	]
